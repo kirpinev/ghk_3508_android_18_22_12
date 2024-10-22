@@ -7,7 +7,7 @@ import { appSt } from "../style.css.ts";
 export const ThxLayout = () => {
     const clickSubmit = () => {
         window.gtag("event", "ok_click", {
-            variant_name: "ghk_3508_android_18_22_7",
+            variant_name: "ghk_3508_android_18_22_12",
         });
     };
 

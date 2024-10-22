@@ -76,7 +76,7 @@ export const App = () => {
 
   const clickSubmit = () => {
     window.gtag("event", "connect_click", {
-      variant_name: 'ghk_3508_android_18_22_7'
+      variant_name: 'ghk_3508_android_18_22_12'
     });
   };
 
